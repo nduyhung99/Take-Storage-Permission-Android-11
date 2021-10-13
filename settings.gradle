@@ -1,0 +1,2 @@
+rootProject.name = "TestESPAndroid11"
+include ':app'
